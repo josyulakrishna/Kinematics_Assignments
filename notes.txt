@@ -1,0 +1,5 @@
+http://www.ijicic.org/ijicic-12-02087.pdf M,C,G
+https://vibgyorpublishers.org/content/ijre/ijre-5-028.pdf PID and diff equations
+https://www.ijser.org/researchpaper/Kinematic-and-Dynamic-Analysis-of-Two-Link-Robot-Arm-using-PID-with-Friction-Compensator.pdf FK x,y, theta
+https://www.researchgate.net/publication/324531716_Modeling_of_2-DOF_robot_Arm_and_Control force control
+https://m.riunet.upv.es/bitstream/handle/10251/148213/Ubeda%20-%20Control%20PID%20para%20brazo%20rob%C3%B3tico.pdf?sequence=1&isAllowed=y PID 
